@@ -12,4 +12,5 @@ In the age of technology 4.0, we are aware of the importance of data from e-comm
 * Database: MongoDB
 * Data storage: GitHub
 * Libraries: regular expression, pymongo, time, Scikit-learn, Numpy, Pandas, Keras, NLTK, TensorFlow, asyncio, requests, scrapy…
+
 We use technologies related to Natural Language Processing (NLP) that are used to analyze text from customer feedback, determine sentence structure, and understand the subtle meanings of words and phrases. phrase. Combined with NLP is Sentiment Analysis, which helps determine whether a sentence or piece of text is positive, negative or neutral. Besides, we also use deep learning methods that focus on expression is a BiGRU model used to train to recognize and classify emotions from input data.
