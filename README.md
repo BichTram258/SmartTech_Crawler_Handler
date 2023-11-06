@@ -17,4 +17,5 @@ We use technologies related to Natural Language Processing (NLP) that are used t
 
 ## Link demo:
 ![Demo ứng dụng](https://drive.google.com/file/d/12b6njmOmr3U55T3gmg_SGqhWt4RFUeen/view?usp=sharing) 
+
 ![thuyết trình về ứng dụng](https://drive.google.com/file/d/1ptvfAl3iLLw1ofUbZF_7JUaEKmBeqc3Y/view?usp=drive_link).
