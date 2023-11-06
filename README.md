@@ -16,4 +16,5 @@ In the age of technology 4.0, we are aware of the importance of data from e-comm
 We use technologies related to Natural Language Processing (NLP) that are used to analyze text from customer feedback, determine sentence structure, and understand the subtle meanings of words and phrases. phrase. Combined with NLP is Sentiment Analysis, which helps determine whether a sentence or piece of text is positive, negative or neutral. Besides, we also use deep learning methods that focus on expression is a BiGRU model used to train to recognize and classify emotions from input data.
 
 ## Link demo:
-![Demo ứng dụng](https://drive.google.com/file/d/12b6njmOmr3U55T3gmg_SGqhWt4RFUeen/view?usp=sharing) (<a>)
+![Demo ứng dụng](https://drive.google.com/file/d/12b6njmOmr3U55T3gmg_SGqhWt4RFUeen/view?usp=sharing) 
+![thuyết trình về ứng dụng](https://drive.google.com/file/d/1ptvfAl3iLLw1ofUbZF_7JUaEKmBeqc3Y/view?usp=drive_link).
