@@ -4,8 +4,10 @@
 In the age of technology 4.0, we are aware of the importance of data from e-commerce platforms and diverse websites targeting electronic devices, especially mobile phones, so we decided to Building a system to analyze users' emotional comments about mobile phones based on the Vietnamese data set UIT-ViSFD including 11,122 user comments to solve the task of detecting rating ranges in sentiment analysis. emotions and feelings are based on aspects.
 
 ## Technology:
-* Design tool: Figma 
+* Design tool: Figma
+
 * Front-end: ReactJS, nextJS
+
 * Back-end: Python, NodeJS
 * Database: MongoDB
 * Data storage: GitHub
